@@ -1,6 +1,6 @@
 # 65 -> ASCII 'A'
 # 97 -> ASCII 'a'
-# 26 -> Total Llphabets
+# 26 -> Total Alphabets
 
 def caesar_cipher(text, shift)
   temp_text = text.split(' ').map do |word|
