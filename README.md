@@ -2,6 +2,6 @@
 
 #### My Solution
 * caesar_cipher [ok]
-* sub string [x]
+* substring [ok]
 * stock picker [x]
 * bubble sort [x]
